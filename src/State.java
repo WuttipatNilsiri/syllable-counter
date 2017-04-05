@@ -1,0 +1,9 @@
+
+public enum State {
+	START,
+	CONSONANT,
+	SINGLE_VOWEL,
+	MULTIVOWEL,
+	HYPHEN,
+	NONWORD,
+}
